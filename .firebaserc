@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "staging": "functions-c2e82"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
